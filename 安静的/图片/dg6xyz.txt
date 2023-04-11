@@ -1,0 +1,1 @@
+release the following port (7800|888|80|443|20|21) in the security group
